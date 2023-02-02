@@ -1,3 +1,3 @@
-db_host_ip = "127.0.0.1"
-db_port = "2521"
-db_name = "carParking_database"
+db_host_ip = "containers-us-west-169.railway.app"
+db_port = "5595"
+db_name = "railway"
